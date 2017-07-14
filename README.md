@@ -2,7 +2,7 @@
 less-plugin-export-variables
 =======================
 
-Exports all LESS CSS variables into an ES6 javascript file.
+Exports LESS CSS global variables into an ES6 javascript file.
 
 Transforms:
 

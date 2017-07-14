@@ -2,22 +2,22 @@
     "name": "less-plugin-export-variables",
     "version": "0.1.0",
     "description": "export less variables",
-    "homepage": "https://github.com/persomi/less-plugin-export-variables",
+    "homepage": "https://github.com/mvitorino/less-plugin-export-variables",
     "author": {
         "name": "Miguel Vitorino"
     },
     "contributors": [],
     "bugs": {
-        "url": "https://github.com/persomi/less-plugin-export-variables/issues"
+        "url": "https://github.com/mvitorino/less-plugin-export-variables/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/persomi/less-plugin-export-variables.git"
+        "url": "https://github.com/mvitorino/less-plugin-export-variables.git"
     },
     "licenses": [
         {
             "type": "Apache v2",
-            "url": "https://github.com/persomi/less-plugin-export-variables/blob/master/LICENSE"
+            "url": "https://github.com/mvitorino/less-plugin-export-variables/blob/master/LICENSE"
         }
     ],
     "main": "lib/index.js",
